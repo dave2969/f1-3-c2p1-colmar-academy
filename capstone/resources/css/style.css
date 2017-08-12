@@ -380,6 +380,13 @@ body {
 
   .course:hover {
     background-color: blue;
+  }
+
+  .course a {
+    transition: color 750ms linear;
+  }
+
+  .course a:hover {
     color: white;
   }
 
